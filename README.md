@@ -7,9 +7,9 @@ Read [Merriam-Webster](http://merriam-webster.com) dictionary from terminal with
 ### Usage example
 
 ```sh
-mw spoon
+./mw.sh spoon
 ```
-```sh
+```
 -- an eating or cooking implement consisting of a small shallow bowl with a relatively long handle
 -* spoonful
 -- something (such as a tool or fishing lure) that resembles a spoon in shape
